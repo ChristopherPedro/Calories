@@ -1,4 +1,4 @@
-# Development
+# Production
 
 # Calories This program allowed the user to enter their weight and also the excercise they did. This program was designed to calculate the amount of calories burned when doing the excercise. 
 
