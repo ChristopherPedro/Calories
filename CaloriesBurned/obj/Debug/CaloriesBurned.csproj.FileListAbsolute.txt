@@ -1,0 +1,10 @@
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\bin\Debug\CaloriesBurned.exe.config
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\bin\Debug\CaloriesBurned.exe
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\bin\Debug\CaloriesBurned.pdb
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.csprojAssemblyReference.cache
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.frmCalories.resources
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.Properties.Resources.resources
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.csproj.GenerateResource.cache
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.csproj.CoreCompileInputs.cache
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.exe
+D:\NWU\Cmpg\CMpg 122\Practicals\CaloriesBurned\CaloriesBurned\obj\Debug\CaloriesBurned.pdb
